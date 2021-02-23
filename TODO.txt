@@ -1,0 +1,1 @@
+Importar a collection para o Postman e executar o arquivo Application.java
